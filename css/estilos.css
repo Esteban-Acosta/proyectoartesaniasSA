@@ -1,0 +1,8 @@
+h1 {
+    font-size: 3em;
+    color: floralwhite;
+}
+body {
+    background: url(../imagenes/artesanias1.jpg);
+    background-size: cover;
+}
